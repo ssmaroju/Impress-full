@@ -1,7 +1,7 @@
 {
     "name": "lazylinepainter",
     "title": "Lazy Line Painter",
-    "description": "A jQuery plugin for path animation using CSS",
+    "type": "A jQuery plugin for path animation using CSS",
     "keywords": [
         "css",
         "svg",
